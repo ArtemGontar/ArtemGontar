@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArtemGontar
+# 👋 Hi, I’m @ArtemGontar
 - 🌱 I’m currently learning TensorFlow
 - 💞️ I’m looking to collaborate on any project
 
