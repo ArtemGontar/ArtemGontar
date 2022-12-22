@@ -5,6 +5,7 @@
 ### 📜 Latest blog posts
 
 [How to configure Grafana Loki with Helm into Kubernetes](http://solutionarchitect.com.s3-website-us-east-1.amazonaws.com/posts/grafana-loki-helm-install/)
+<br>
 [Why do you need a reverse proxy server in 5 acts](http://solutionarchitect.com.s3-website-us-east-1.amazonaws.com/posts/reverse-proxy/)
 
 <h3 align="left">Languages and Tools:</h3>
