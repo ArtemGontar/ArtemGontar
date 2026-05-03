@@ -1,28 +1,61 @@
-# 👋 Hello, I'm Artsiom!
+# Hi, I'm Artsiom
 
-I'm a passionate software engineer who loves clean, maintainable code and innovative solutions. My experience spans a variety of technologies, from backend systems and cloud infrastructure to frontend interfaces and DevOps pipelines. 
+Software engineer focused on backend systems, cloud infrastructure, and distributed platform reliability.
 
-## 💻 What I Do
+Over the last 8+ years I have worked across enterprise engineering platforms, fintech products, Kubernetes/AWS infrastructure, and independent SaaS applications — building production systems, migrating legacy workloads, solving scaling failures, and designing maintainable backend architectures.
 
-- **Backend Development**: Building scalable APIs, microservices, and event-driven systems.
-- **DevOps & Cloud**: Automating deployments, managing infrastructure, and optimizing performance on Azure.
-- **Frontend**: Creating user-centric interfaces with React, Tailwind, and modern web tech.
-- **Research & Problem-Solving**: Digging deep into complex codebases, exploring new ideas, and always learning.
+I enjoy technically messy problems: distributed processing, cloud cost inefficiencies, poor observability, legacy modernization, and anything that requires turning vague operational pain into a clean engineering solution.
 
-## 🚀 My Values
+---
 
-- Code should be **simple, elegant, and well-documented**.
-- **Collaboration** is the key to great software.
-- Stay **curious**—there's always something new to learn.
+## Core Areas
 
-## 🛠️ Current Focus
+- **Backend Engineering** — C#, .NET, ASP.NET Core, REST APIs, asynchronous processing, microservices
+- **Cloud & Platform** — AWS, Kubernetes, Docker, Terraform, Helm, CI/CD, observability
+- **Frontend (practical)** — TypeScript, React, Angular
+- **Distributed Systems** — messaging, orchestration, resiliency, tracing, performance tuning
+- **AI-Assisted Engineering** — MCP integrations, agent workflows, LLM-assisted development
 
-- Leveraging **AI and automation** to make development smarter and more efficient.
-- Contributing to open-source projects and sharing what I learn.
+---
 
-## 📫 Let’s Connect
+## Selected Independent Projects
 
-I’m always open to interesting ideas and projects. Reach out if you’d like to collaborate!
+### Yomio
+Mobile expense tracking application built end-to-end as an independent SaaS product.
 
-### My vibe coding products
-[Aura - fortune-telling AI-paired telegram mini-app](https://t.me/aura_fortune_bot)
+Features include OCR receipt parsing, AI-generated spending insights, AI chat assistance, subscription billing, authentication, analytics, and cloud backend infrastructure.
+
+Full-stack ownership from product architecture to production deployment.
+
+### Aura
+AI-powered Telegram mini app focused on astrology, compatibility, dream interpretation, and personalized daily content.
+
+Built as a consumer-facing monetized product with custom backend services and LLM integrations.
+
+### AgentsGang
+Experimental autonomous agent engine exploring planning, execution graphs, MCP tools, memory, and agent orchestration patterns.
+
+Focused on practical agent engineering rather than demo workflows.
+
+---
+
+## Technical Writing
+
+I occasionally write about software architecture, cloud engineering, distributed systems, and practical engineering trade-offs:
+
+- Medium: https://medium.com/@artemgontar16
+
+---
+
+## Engineering Principles
+
+- Prefer systems that are observable before they are clever
+- Prefer maintainability over temporary speed hacks
+- Automate repetitive engineering pain aggressively
+- Keep architecture pragmatic: elegant enough to scale, simple enough to debug
+
+---
+
+## Contact
+
+Open to engineering conversations, collaboration, and interesting infrastructure/backend problems.
