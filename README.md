@@ -1,4 +1,4 @@
-# Hi, I'm Artsiom
+# 👋 Hi, I'm Artsiom
 
 Software engineer focused on backend systems, cloud infrastructure, and distributed platform reliability.
 
@@ -8,7 +8,7 @@ I enjoy technically messy problems: distributed processing, cloud cost inefficie
 
 ---
 
-## Core Areas
+## 🧩 Core Areas
 
 - **Backend Engineering** — C#, .NET, ASP.NET Core, REST APIs, asynchronous processing, microservices
 - **Cloud & Platform** — AWS, Kubernetes, Docker, Terraform, Helm, CI/CD, observability
@@ -18,44 +18,48 @@ I enjoy technically messy problems: distributed processing, cloud cost inefficie
 
 ---
 
-## Selected Independent Projects
+## 🚀 Selected Independent Projects
 
-### Yomio
+### 📱 Yomio
 Mobile expense tracking application built end-to-end as an independent SaaS product.
 
-Features include OCR receipt parsing, AI-generated spending insights, AI chat assistance, subscription billing, authentication, analytics, and cloud backend infrastructure.
+Includes OCR receipt parsing, AI-generated spending insights, AI chat assistance, subscription billing, authentication, analytics, and cloud backend infrastructure.
 
 Full-stack ownership from product architecture to production deployment.
 
-### Aura
+---
+
+### ✨ Aura
 AI-powered Telegram mini app focused on astrology, compatibility, dream interpretation, and personalized daily content.
 
 Built as a consumer-facing monetized product with custom backend services and LLM integrations.
 
-### AgentsGang
+---
+
+### 🤖 AgentsGang
 Experimental autonomous agent engine exploring planning, execution graphs, MCP tools, memory, and agent orchestration patterns.
 
-Focused on practical agent engineering rather than demo workflows.
+Focused on practical agent engineering rather than toy demos.
 
 ---
 
-## Technical Writing
+## ✍️ Technical Writing
 
-I occasionally write about software architecture, cloud engineering, distributed systems, and practical engineering trade-offs:
+I write about software architecture, cloud engineering, distributed systems, and practical engineering trade-offs.
 
 - Medium: https://medium.com/@artemgontar16
 
 ---
 
-## Engineering Principles
+## ⚙️ Engineering Principles
 
-- Prefer systems that are observable before they are clever
-- Prefer maintainability over temporary speed hacks
+- Build systems that are observable before they are clever
+- Prefer maintainability over temporary hacks
 - Automate repetitive engineering pain aggressively
-- Keep architecture pragmatic: elegant enough to scale, simple enough to debug
+- Keep architecture pragmatic: scalable, debuggable, and boring in production
 
 ---
 
-## Contact
+## 📫 Contact
 
-Open to engineering conversations, collaboration, and interesting infrastructure/backend problems.
+Open to engineering conversations, collaboration, and interesting backend/platform challenges.
